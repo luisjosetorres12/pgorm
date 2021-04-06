@@ -1,0 +1,12 @@
+Que se requiere para que esto sea un ORM.
+
+1. Conectarse a la base de datos. YA
+2. Realizar consultas -- YA (Al menos trae usuarios del schema public. En la version 2 agregar opcion para validar schema)
+3. Crear Tablas.
+4. Añadir o eliminar columnas a las tablas.
+5. Eliminar o renombrar tablas.
+6. Manejar Transacciones.
+7. Crear Migraciones
+8. Crear un Comando para generar estructura (Carpetas models, migrations y seeds)
+9. Crear base de datos desde un archivo, a la vez ir creando el archivo y actualizandolo
+10. Crear base de datos desde 

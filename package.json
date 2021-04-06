@@ -1,0 +1,19 @@
+{
+  "name": "pgorm",
+  "version": "1.0.0",
+  "description": "Easy ORM for Postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "author": "Luis Jose Torres",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7"
+  }
+}
